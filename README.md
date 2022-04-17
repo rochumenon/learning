@@ -1,5 +1,5 @@
 # learning
 Feature added
-Bug fixed
+1Bug fixed
 
 3
