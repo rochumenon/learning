@@ -8,3 +8,4 @@ Second commit since diverge
 master1
 feature diverge 1
 master2
+feature diverge 2
